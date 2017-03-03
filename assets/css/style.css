@@ -1,3 +1,7 @@
+input{
+    border-radius:0 !important;
+}
+
 .block1{
     background-color:#ef5350;
 }

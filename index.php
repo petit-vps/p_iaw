@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container-fluid">
-        <div class="row">
+        <!--div class="row">
             <div class="col-md-3 block1 text-center">
                 <i class="fa fa-home "></i> Home 
             </div>
@@ -21,6 +21,21 @@
             </div>
             <div class="col-md-3 block4 text-center ">
                 <i class="fa fa-envelope "></i> Message
+            </div>
+        </div--!>
+        
+        <div class="row">
+            <div class="radio">
+                <label for="">
+                    <input type="radio" name="rad1">femme
+                </label>
+            </div>
+
+            <div>
+                <div class="form-group">
+                    <label for="">tototo</label>
+                    <input type="text" class="form-control" >
+                </div>
             </div>
         </div>
     </div>
