@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
-    <?php echo 'PHP de merde'?>
+    <?php echo 'PHP de merde 5'?>
     <script src="./assets/js/jquery.min.js"></script>
     <script src="./assets/js/bootstrap.min.js"></script>
 </body>
