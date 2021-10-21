@@ -21,14 +21,14 @@ function mult($m){
     <div class="container">
     <div class="row">
     <?php
-for($i=2 ; $i<200 ; $i++){
-    echo '<div class="col-md-2">';
-    echo '<div class="mult"><div class="m_title text-center">Table '.$i.'</div>';
+    for($i=2 ; $i<200 ; $i++){
+        echo '<div class="col-md-2">';
+        echo '<div class="mult"><div class="m_title text-center">Table '.$i.'</div>';
         echo mult($i);
         echo '</div></div>';
     }
-    ?>  
-    </div> 
+    ?>
+    </div>
     </div>
     <script src="./assets/js/jquery.min.js"></script>
     <script src="./assets/js/bootstrap.min.js"></script>
